@@ -1,19 +1,23 @@
-rohanchandra: # author-id
-  name: "Rohan Chandra"
-  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
-  url: "https://github.com/rohanchandra"
-sylhare:
-  name: Sylhare
-  avatar: "assets/img/avatars/sylhare_avatar.png"
-  url: "https://github.com/sylhare"
-mmistakes:
-  name: "Michael Rose"
-  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
-  url: "https://github.com/mmistakes"
-mhagnumdw:
-  name: Mhagnumdw
-  avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
+yiss: # author-id
+  name: "Jesús Bueno"
+  avatar: "assets/img/avatars/profile_yiss.jpg"
+  url: "https://twitter.com/buenourbano"
+bort:
+  name: "Bartolomé Ortiz"
+  avatar: "assets/img/avatars/profile_bart.jpg"
+  url: "https://twitter.com/bortizmath"
+mike:
+  name: "Miguel López"
+  avatar: "assets/img/avatars/profile_yiss.jpg"
+  url: "https://twitter.com/wizmik12"
+almu:
+  name: "Almudena Campos"
+  avatar: "assets/img/avatars/profile_almu.jpg"
   url:
+thefluxions:
+  name: "The Fluxions"
+  avatar: "assets/img/avatars/logo.jpg"
+  url: "https://twitter.com/TheFluxions"
 unknown:
   name: Unknown
   avatar:

@@ -1,18 +1,19 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://thefluxions.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: The Fluxions                                    # site's title
+description: "El podcast que escucharía Newton"
+# used by search engines
+avatar: assets/img/logo.jpg                        # Empty for no avatar in navbar
+favicon: assets/logo.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text: "El podcast que escucharía Newton"  # Change Blog header text
+header_feature_image: assets/img/pexels/network.gif
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  The Fluxions - 2020
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
@@ -31,7 +32,7 @@ language:                                               # In _data/language.yml
 
 # PAGINATION
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "blog/page:num"
 
 # PORTFOLIO
 collections:
