@@ -3,7 +3,7 @@ layout: page
 title: Galería
 subtitle:
 permalink: /gallery/
-gallery_path: "assets/img/pexels"
+gallery_path: "assets/img/view"
 feature-img: "assets/img/pexels/network.gif"
 #tags: #[Gallery, Photo]
 ---
