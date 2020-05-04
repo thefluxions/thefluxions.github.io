@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Galería
-subtitle:
+subtitle: Imágenes almacenadas en la web
 permalink: /gallery/
 gallery_path: "assets/img/view"
 feature-img: "assets/img/view/network.gif"

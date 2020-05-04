@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Equipo
-subtitle:
+subtitle: ¿Quiénes somos?
 permalink: /team/
 feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]

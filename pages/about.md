@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyecto
-subtitle:
+subtitle: ¿Qué es The Fluxions?
 permalink: /about/
 feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
