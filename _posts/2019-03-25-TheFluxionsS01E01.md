@@ -3,9 +3,9 @@ layout: post
 title: S01E01 - AlphaZero
 #color: black
 author: thefluxions
-feature-img: "assets/img/pexels/S01E01.jpg"
-thumbnail: "assets/img/pexels/S01E01.jpg"
-image: "assets/img/pexels/S01E01.jpg" #seo tag
+feature-img: "assets/img/view/S01E01.jpg"
+thumbnail: "assets/img/view/S01E01.jpg"
+image: "assets/img/view/S01E01.jpg" #seo tag
 #excerpt_separator: <!--more-->
 #tags: 
 ---

@@ -3,7 +3,7 @@ layout: page
 title: Proyecto
 subtitle:
 permalink: /about/
-feature-img: "assets/img/pexels/network.gif"
+feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Equipo
 subtitle:
 permalink: /team/
-feature-img: "assets/img/pexels/network.gif"
+feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
 ---
 <style>

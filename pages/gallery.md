@@ -4,7 +4,7 @@ title: Galería
 subtitle:
 permalink: /gallery/
 gallery_path: "assets/img/view"
-feature-img: "assets/img/pexels/network.gif"
+feature-img: "assets/img/view/network.gif"
 #tags: #[Gallery, Photo]
 ---
 
