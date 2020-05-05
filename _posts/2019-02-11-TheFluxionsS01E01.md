@@ -24,3 +24,7 @@ Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas
 <a href="https://medialab.ugr.es/evento/radiolab-the-fluxions-episodio-1-alphazero" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 <a href="https://medialab.ugr.es/noticias/fluxions-y-novedades" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
+
+## Galería
+
+{% include aligner.html images="view/S01E01_1.jpg" column=1 %}
