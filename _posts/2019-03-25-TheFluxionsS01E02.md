@@ -25,8 +25,8 @@ Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo Garcí
 </p>
 <br><br>
 ## Galería
-![](/assets/img/view/S01E02_1.jpg =500x)
-![](/assets/img/view/S01E02_2.jpg =500x)
+![](./assets/img/view/S01E02_1.jpg =500x)
+![](./assets/img/view/S01E02_2.jpg =500x)
 `<img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg" height="500" align="center">
 <img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg" height="500" align="center">`
 <br><br>
