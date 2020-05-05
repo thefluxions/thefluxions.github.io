@@ -30,12 +30,3 @@ Hoy Newton escucharía debajo del árbol el programa especial que The Fluxions g
 ## Galería
 
 {% include aligner.html images="view/S01E03_1.jpg,view/S01E03_2.jpg,view/S01E03_3.jpg,view/S01E03_4.jpg,view/S01E03_5.jpg" column=1 %}
-
-<br><br>
-## Datos técnicos
-
-Audio utilizado
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tanzen (K ID 22) - KieLoBot - Hounds of Darkmoor (Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improvisations 03_25_12 Part 2 - Split Phase - Compendium (Copyright: Attribution-Noncommercial-Share Alike 3.0)
