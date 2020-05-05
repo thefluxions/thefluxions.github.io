@@ -12,8 +12,8 @@ image: "assets/img/view/S01E02.jpg"
 
 Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo García (<a href="https://twitter.com/fergunet" target="_blank">@fergunet</a>) que actualmente es Profesor Sustituto en la Universidad de Cádiz. Siendo uno de sus grandes pasiones e intereses hoy charlaremos con él sobre la Inteligencia Artificial aplicada a videojuegos: Inspirado por Darwin, la evolución y la vida, usa unos algoritmos llamados *evolutivos*.
 
-<img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg" width="300" align=" right">
-<img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg" width="300" align=" right">
+<img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg" height="300" align=" right">
+<img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg" height="300" align=" right">
 
 <br>Si queréis conocer más sobre Pablo, cómo usa estos algoritmos inspirados en Darwin o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
 <br>Segundo capítulo de The Fluxions disponible en Spreaker, Spotify y YouTube.
