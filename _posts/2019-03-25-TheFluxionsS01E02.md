@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S01E01 - Pablo García: evolución y videojuegos"
+title: "S01E02 - Pablo García: evolución y videojuegos"
 #color: black
 author: thefluxions
 feature-img: "assets/img/view/S01E02.jpg"
@@ -25,13 +25,9 @@ Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo Garcí
 </p>
 <br><br>
 ## Galería
-![](https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg =500x)
-![](https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg =500x)
 
-{% include aligner.html images="view/S01E02_1.jpg,view/S01E02_2.jpg" column=3 %}
+{% include aligner.html images="view/S01E02_1.jpg,view/S01E02_2.jpg" column=1 %}
 
-<a><img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg" height="500" align="center"></a>
-<a><img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg" height="500" align="center"></a>
 <br><br>
 ## Datos técnicos
 
