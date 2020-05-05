@@ -10,7 +10,7 @@ image: "assets/img/view/S01E02.jpg"
 #tags: 
 ---
 
-Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo García ([@fergunet](https://twitter.com/fergunet)) que actualmente es Profesor Sustituto en la Universidad de Cádiz. Siendo uno de sus grandes pasiones e intereses hoy charlaremos con él sobre la Inteligencia Artificial aplicada a videojuegos: Inspirado por Darwin, la evolución y la vida, usa unos algoritmos llamados *"evolutivos"*.
+Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo García ([@fergunet](https://twitter.com/fergunet)) que actualmente es Profesor Sustituto en la Universidad de Cádiz. Siendo uno de sus grandes pasiones e intereses hoy charlaremos con él sobre la Inteligencia Artificial aplicada a videojuegos: Inspirado por Darwin, la evolución y la vida, usa unos algoritmos llamados *evolutivos*.
 
 <img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_1.jpg" width="250" align=" right">
 <img source="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/view/S01E02_2.jpg" width="250" align=" right">
