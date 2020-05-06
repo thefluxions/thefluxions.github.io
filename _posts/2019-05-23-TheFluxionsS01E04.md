@@ -11,7 +11,7 @@ image: "assets/img/view/S01E04.jpg"
 ---
 
 
-Hoy Newton escucharía debajo del árbol a Bart y Mikke preguntándose si tenemos plena decisión sobre nuestras acciones diarias. Cada vez más algoritmos basados en la Inteligencia Artificial controlan nuestra vida. Aunque todavía no hemos visto a Terminator por las calles, estos algoritmos se usan cada vez más para tomar decisiones que inciden directamente en nuestras vidas: la conducción de vehículos, diagnósticos médicos, concesión de créditos,… ¿Qué pasaría si estos algoritmos no fueran todo lo bien que deberían? ¿Y si toman decisiones arbitrarias? Si queréis saber un poco más sobre este tenebroso asunto o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
+Hoy Newton escucharía debajo del árbol a Bart y Mike preguntándose si tenemos plena decisión sobre nuestras acciones diarias. Cada vez más algoritmos basados en la Inteligencia Artificial controlan nuestra vida. Aunque todavía no hemos visto a Terminator por las calles, estos algoritmos se usan cada vez más para tomar decisiones que inciden directamente en nuestras vidas: la conducción de vehículos, diagnósticos médicos, concesión de créditos… ¿Qué pasaría si estos algoritmos no fueran todo lo bien que deberían? ¿Y si toman decisiones arbitrarias? Si queréis saber un poco más sobre este tenebroso asunto o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
 <br>Cuarto capítulo de The Fluxions disponible en Spreaker, Spotify y YouTube.
 <br>
 <p align="center">
@@ -21,7 +21,7 @@ Hoy Newton escucharía debajo del árbol a Bart y Mikke preguntándose si tenemo
 
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="https://medialab.ugr.es/evento/the-fluxions-1x04-demon-ia/" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
+<a href="https://medialab.ugr.es/evento/the-fluxions-1x04-demon-ia" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
 ## Galería
