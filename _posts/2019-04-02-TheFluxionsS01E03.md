@@ -29,4 +29,4 @@ Hoy Newton escucharía debajo del árbol el programa especial que The Fluxions g
 <br><br>
 ## Galería
 
-{% include aligner.html images="view/S01E03_1.jpg,view/S01E03_2.jpg,view/S01E03_3.jpg,view/S01E03_4.jpg,view/S01E03_5.jpg" column=1 %}
+{% include aligner.html images="view/S01E03_1.jpg,view/S01E03_2.jpg,view/S01E03_3.jpg,view/S01E03_4.jpg" column=1 %}
