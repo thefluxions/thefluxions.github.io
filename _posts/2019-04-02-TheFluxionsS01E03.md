@@ -27,6 +27,7 @@ Hoy Newton escucharía debajo del árbol el programa especial que The Fluxions g
 <a href="https://medialab.ugr.es/noticias/especial-the-fluxions-en-las-iii-jornadas-rsme-amat" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
+
 ## Galería
 
 {% include aligner.html images="view/S01E03_1.jpg,view/S01E03_2.jpg,view/S01E03_3.jpg,view/S01E03_4.jpg" column=1 %}

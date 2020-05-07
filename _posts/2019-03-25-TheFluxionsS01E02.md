@@ -24,11 +24,13 @@ Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo Garcí
 <a href="https://medialab.ugr.es/noticias/novedades-semanales-en-radiolabugr/" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
+
 ## Galería
 
 {% include aligner.html images="view/S01E02_1.jpg,view/S01E02_2.jpg" column=1 %}
 
 <br><br>
+
 ## Datos técnicos
 
 Audio utilizado

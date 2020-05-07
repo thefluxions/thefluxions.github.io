@@ -24,6 +24,7 @@ Hoy Newton escucharía debajo del árbol a nuestra querida invitada Ana Valdivia
 <a href="https://medialab.ugr.es/evento/the-fluxions-1x05-ana-valdivia-big-data-for-social-good" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
+
 ## Galería
 
 {% include aligner.html images="view/S01E05_1.jpg" column=1 %}
