@@ -21,9 +21,12 @@ Hoy Newton escucharía debajo del árbol el programa especial que The Fluxions g
 
 <a href="https://open.spotify.com/episode/0ozVHRZOZUIwrLbzNQK5fG?si=06--r3frRzickjggqg4Eyw" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/es/podcast/1x03-especial-iii-jornadas-rsme-amat/id1492409246?i=1000460270478" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="https://medialab.ugr.es/evento/taller-conferencia-the-fluxions-en-las-iii-jornadas-rsme-amat" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
+<a href="https://www.ivoox.com/1x03-especial-iii-jornadas-rsme-amat-audios-mp3_rf_47189370_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+
 <a href="https://medialab.ugr.es/noticias/especial-the-fluxions-en-las-iii-jornadas-rsme-amat" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>

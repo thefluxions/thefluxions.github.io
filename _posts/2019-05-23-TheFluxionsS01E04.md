@@ -19,8 +19,12 @@ Hoy Newton escucharía debajo del árbol a Bart y Mike preguntándose si tenemos
 
 <a href="https://open.spotify.com/episode/3xsbbRgi6ZdbTxN6CcOsjS?si=yppvQKMNRsCzL_hJRIWzVQ" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/es/podcast/1x04-demon-ia/id1492409246?i=1000460270481" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 <br><br>
+<a href="https://www.ivoox.com/1x04-demon-ia-audios-mp3_rf_47189369_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+
 <a href="https://medialab.ugr.es/evento/the-fluxions-1x04-demon-ia" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>

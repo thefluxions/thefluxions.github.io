@@ -19,8 +19,12 @@ Hoy Newton escucharía debajo del árbol a nuestra querida invitada Ana Valdivia
 
 <a href="https://open.spotify.com/episode/5PaNtA7oOG1UmjgrfVtGeT?si=eGcfKUc4TdKG9eypnEoQqQ" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/es/podcast/1x05-ana-valdivia-big-data-for-social-good/id1492409246?i=1000460270480" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 <br><br>
+<a href="https://www.ivoox.com/1x05-ana-valdivia-big-data-for-social-audios-mp3_rf_47189368_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
+
 <a href="https://medialab.ugr.es/evento/the-fluxions-1x05-ana-valdivia-big-data-for-social-good" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>

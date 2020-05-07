@@ -17,10 +17,14 @@ Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo Garcí
 <p align="center">
 <a href="https://www.spreaker.com/user/radiolabugr/entrevista-fergu" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
 
-<a href="https://open.spotify.com/episode/68VQHSZxrb1fBbPd0PgGPC?si=WhLqhggaSE6nHKec73jYIA" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
+<a href="https://open.spotify.com/episode/68VQHSZxrb1fBbPd0PgGPC?si=WhLqhggaSE6nHKec73jYIA" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>7
+
+<a href="https://podcasts.apple.com/es/podcast/1x02-pablo-garc%C3%ADa-evoluci%C3%B3n-y-videojuegos/id1492409246?i=1000460270236" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+<br><br>
+<a href="https://www.ivoox.com/1x02-pablo-garcia-evolucion-videojuegos-audios-mp3_rf_47189371_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
-<br><br>
+
 <a href="https://medialab.ugr.es/noticias/novedades-semanales-en-radiolabugr/" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
