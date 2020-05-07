@@ -20,16 +20,12 @@ Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas
 <a href="https://open.spotify.com/episode/5k2nZY1oRxnYpcGohNglp7?si=qGZxgBNMT6eI0ax0vndwyw" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
 <a href="https://podcasts.apple.com/es/podcast/1x01-alphazero/id1492409246?i=1000460270477" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
-
+<br><br>
 <a href="https://www.ivoox.com/1x01-alphazero-audios-mp3_rf_47189372_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 
-<br><br>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
 
 <a href="https://medialab.ugr.es/evento/radiolab-the-fluxions-episodio-1-alphazero" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
-
-<a href="https://medialab.ugr.es/noticias/fluxions-y-novedades" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
-</p>
 
 ## Galería
 
