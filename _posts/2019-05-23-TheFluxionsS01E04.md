@@ -24,6 +24,7 @@ Hoy Newton escucharía debajo del árbol a Bart y Mike preguntándose si tenemos
 <a href="https://medialab.ugr.es/evento/the-fluxions-1x04-demon-ia" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
+
 ## Galería
 
 {% include aligner.html images="view/S01E04_1.jpg,view/S01E04_2.jpg,view/S01E04_3.jpg,view/S01E04_4.jpg" column=1 %}
