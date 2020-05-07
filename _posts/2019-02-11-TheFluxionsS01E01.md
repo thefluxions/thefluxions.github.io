@@ -12,7 +12,6 @@ image: "assets/img/view/S01E01.jpg"
 
 Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas mecánicos y cómo años más tarde esos sueños son ahora realidad. Estamos siendo testigos del gran hito de la Inteligencia Artificial en juegos de estrategia. Una máquina ha cambiado por completo el entendimiento sobre go y ajedrez. ¿Pero sabías que este mismo algoritmo ha sido aplicado con éxito en otro gran campo de interés como es la Biomedicina?
 <br>Si quieres enterarte de todo esto en un tono divertido, desenfadado y sin hacerle muchos ascos al rigor, ya estás escuchando a Bart y Mike: Play y fluxea.
-<br>¡Primer capítulo de The Fluxions disponible!
 <br>
 <p align="center">
 <a href="https://www.spreaker.com/user/radiolabugr/fluxion1x01" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
@@ -26,6 +25,7 @@ Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
 
 <a href="https://medialab.ugr.es/evento/radiolab-the-fluxions-episodio-1-alphazero" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
+<p>
 
 <br><br>
 
