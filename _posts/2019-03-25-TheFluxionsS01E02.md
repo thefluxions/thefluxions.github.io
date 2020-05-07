@@ -12,12 +12,11 @@ image: "assets/img/view/S01E02.jpg"
 
 Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo García (<a href="https://twitter.com/fergunet" target="_blank">@fergunet</a>) que actualmente es Profesor Sustituto en la Universidad de Cádiz. Siendo uno de sus grandes pasiones e intereses hoy charlaremos con él sobre la Inteligencia Artificial aplicada a videojuegos: Inspirado por Darwin, la evolución y la vida, usa unos algoritmos llamados *evolutivos*.
 <br>Si queréis conocer más sobre Pablo, cómo usa estos algoritmos inspirados en Darwin o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
-<br>Segundo capítulo de The Fluxions disponible en Spreaker, Spotify y YouTube.
 <br>
 <p align="center">
 <a href="https://www.spreaker.com/user/radiolabugr/entrevista-fergu" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
 
-<a href="https://open.spotify.com/episode/68VQHSZxrb1fBbPd0PgGPC?si=WhLqhggaSE6nHKec73jYIA" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>7
+<a href="https://open.spotify.com/episode/68VQHSZxrb1fBbPd0PgGPC?si=WhLqhggaSE6nHKec73jYIA" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
 <a href="https://podcasts.apple.com/es/podcast/1x02-pablo-garc%C3%ADa-evoluci%C3%B3n-y-videojuegos/id1492409246?i=1000460270236" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 <br><br>

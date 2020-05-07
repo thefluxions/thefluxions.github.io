@@ -12,7 +12,6 @@ image: "assets/img/view/S01E05.jpg"
 
 Hoy Newton escucharía debajo del árbol a nuestra querida invitada Ana Valdivia (<a href="https://twitter.com/ana_valdi" target="_blank">@ana_valdi</a>). Matemática por la Universitat Politècnica de Catalunya y Doctora en Ciencias de la Computación por la Universidad de Granada. Con un gran interés en la justicia social, su gran preocupación es como los algoritmos basados en inteligencia artificial afectan a nuestra sociedad.
 <br>Si queréis conocer más sobre Ana, cómo estos algoritmos nos afectan o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
-<br>Quinto capítulo de The Fluxions disponible en Spreaker, Spotify y YouTube.
 <br>
 <p align="center">
 <a href="https://www.spreaker.com/user/radiolabugr/entrevista-ana" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
