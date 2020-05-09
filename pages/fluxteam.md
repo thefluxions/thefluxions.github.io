@@ -8,11 +8,11 @@ feature-img: "assets/img/view/network.gif"
 ---
 <style>
 #avatar {border-radius: 50%;}
-table {width: 300px;}
+table {width: 300px; align: center;}
 td {text-align: center; vertical-align: middle;}
 </style>
 
-<table style="width:100%; align:center">
+<table>
 <tr><td>
 <a href="https://twitter.com/bortizmath" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_bart.jpg" height="150" align="center"></a>
 </td></tr>
