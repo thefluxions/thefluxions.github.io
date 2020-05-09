@@ -11,32 +11,32 @@ feature-img: "assets/img/view/network.gif"
 </style>
 
 <table style="width:100%; align:center">
-<tr>
+<tr><td>
 <a href="https://twitter.com/bortizmath" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_bart.jpg" height="150" align="center"></a>
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <b>Bartolomé Ortiz Viso</b>
 <br>Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Física y Matemáticas por la Universidad de Granada.
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <a href="https://twitter.com/wizmik12" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_mike.jpg" height="150" align="center"></a>
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <b>Miguel López Pérez</b>
 <br>Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Ciencia de Datos e Ingeniería de Computadores por la Universidad de Granada.
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <b>Jesús Bueno Urbano</b>
 <br>Realizó el Grado en Matemáticas y el Máster Matemáticas por la Universidad de Granada. Actualmente se encuentra trabajando para la empresa privada en Madrid.
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <a href="" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
-</tr>
-<tr>
+</td></tr>
+<tr><td>
 <b>Almudena Campos Jiménez</b>
 <br>Estudiante del Máster en Matemáticas por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas por las Universidades de Granada y Málaga.
-</tr>
+</td></tr>
 </table>
