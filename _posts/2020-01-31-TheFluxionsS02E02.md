@@ -10,7 +10,7 @@ image: "assets/img/view/S02E02.jpg"
 #tags: 
 ---
 
-Hoy Newton escucharía debajo del árbol quetodo es mejor con Bayes. Aunque puedes no estar de acuerdo, a nuestro copresentador Mike no le tiembla la voz al afirmarlo. En este episodio os presentaremos las bases de la estadística bayesiana de la forma más campechana posible, a través de preguntas sobre la población de granjeros en Estados Unidos.
+Hoy Newton escucharía debajo del árbol que todo es mejor con Bayes. Aunque puedes no estar de acuerdo, a nuestro copresentador Mike no le tiembla la voz al afirmarlo. En este episodio os presentaremos las bases de la estadística bayesiana de la forma más campechana posible, a través de preguntas sobre la población de granjeros en Estados Unidos.
 <br>Si queréis conocer qué sorpresas os tenemos preparadas o solo queréis echar un buen rato con vuestros podcasters favoritos: Play y fluxea.
 <br>
 <p align="center">
