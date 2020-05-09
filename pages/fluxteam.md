@@ -8,7 +8,13 @@ feature-img: "assets/img/view/network.gif"
 ---
 <style>
 #avatar {border-radius: 50%;}
-table {border:0px solid transparent;} 
+table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
 </style>
 
 <p align="center">
