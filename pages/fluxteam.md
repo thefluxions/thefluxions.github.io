@@ -8,7 +8,7 @@ feature-img: "assets/img/view/network.gif"
 ---
 <style>
 #avatar {border-radius: 50%;}
-table {width: 500px;}
+table {width: 300px;}
 td {text-align: center; vertical-align: middle;}
 </style>
 
