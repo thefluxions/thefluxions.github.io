@@ -21,6 +21,10 @@ table, thead, tbody, th, td, tr {
 }
 </style>
 
+<a href="https://twitter.com/bortizmath" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_bart.jpg" height="150" align="left"></a><b>Bartolomé Ortiz Viso</b><br>Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Física y Matemáticas por la Universidad de Granada.
+<br><br>
+<a href="https://twitter.com/bortizmath" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_bart.jpg" height="150" align="left"></a><b>Bartolomé Ortiz Viso</b><br>Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Física y Matemáticas por la Universidad de Granada.
+
 <p align="center">
 <table class="egt" align="center" cellpadding="0" cellspacing="0" border="0">
   <tr>
