@@ -7,7 +7,7 @@ feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
 ---
 <style>
-table {width: 100%; margin: 0 auto; border-color: white}
+table {width: 100%; margin: 0 auto; border-color: white; align: center}
 tr {border-color: white}
 td {text-align: center; vertical-align: middle; border-color: white}
 td.center {text-align: center; vertical-align: middle;}
