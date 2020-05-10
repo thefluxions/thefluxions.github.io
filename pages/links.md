@@ -29,4 +29,19 @@ Laboratorio de Investigación en Cultura y Sociedad Digital de la Universidad de
 </td><td>
 Instituto de Matemáticas de la Universidad de Granada
 </td></tr>
+<tr><td>
+<a href="https://medialab.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-fciencias.jpg" width="250" align="center"></a>
+</td><td>
+<a href="https://iemath.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-etsiit.png" width="250" align="center"></a>
+</td></tr>
+<tr><td>
+<b>Facultad de Ciencias de la Universidad de Granada</b>
+</td><td>
+<b>Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones</b>
+</td></tr>
+<tr><td>
+XXX
+</td><td>
+XXX
+</td></tr>
 </table>
