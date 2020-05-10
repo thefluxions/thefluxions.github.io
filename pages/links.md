@@ -27,10 +27,10 @@ td.center {text-align: center; vertical-align: middle;}
 <b>IEMath-GR</b>
 </td></tr>
 <tr><td>
-Laboratorio de Investigación en Cultura y Sociedad Digital de la Universidad de Granada
+Laboratorio de Investigación en Cultura y Sociedad<br>Digital de la Universidad de Granada
 </td>
 <td>
-Instituto de Matemáticas de la Universidad de Granada
+Instituto de Matemáticas de<br>la Universidad de Granada
 </td></tr>
 
 </table>
