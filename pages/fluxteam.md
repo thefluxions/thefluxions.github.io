@@ -9,7 +9,8 @@ feature-img: "assets/img/view/network.gif"
 <style>
 #avatar {border-radius: 50%;}
 table {width: 100%; margin: 0 auto; border-color: white}
-td {text-align: center; vertical-align: middle;}
+tr {border-color: white}
+td {text-align: center; vertical-align: middle; border-color: white}
 td.center {text-align: center; vertical-align: middle;}
 </style>
 
