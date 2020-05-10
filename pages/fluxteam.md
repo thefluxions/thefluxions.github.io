@@ -8,9 +8,13 @@ feature-img: "assets/img/view/network.gif"
 ---
 <style>
 #avatar {border-radius: 50%;}
-table {width: 500px; margin-left:auto; margin-right:auto;}
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+table {width: 500px; margin-left:auto; margin-right:auto; border-collapse: collapse;}
 td {text-align: center; vertical-align: middle;}
 td.just {text-align: justify; vertical-align: middle;}
+}
 </style>
 
 <table>
