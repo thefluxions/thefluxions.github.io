@@ -34,9 +34,6 @@ Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Gra
 Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Ciencia de Datos e Ingeniería de Computadores por la Universidad de Granada.
 </td></tr>
 <tr><td>
-<a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
-</td></tr>
-<tr><td>
 <a href="" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
 </td></tr>
 <tr><td>
@@ -44,6 +41,9 @@ Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Gra
 </td></tr>
 <tr><td>
 Estudiante del Máster en Matemáticas por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas por las Universidades de Granada y Málaga.
+</td></tr>
+<tr><td>
+<a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
 </td></tr>
 <tr><td>
 <b>Jesús Bueno Urbano</b>
