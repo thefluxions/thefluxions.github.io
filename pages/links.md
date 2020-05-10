@@ -15,11 +15,11 @@ td.center {text-align: center; vertical-align: middle;}
 
 <table>
 <tr><td>
-<a href="https://medialab.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-MedialabUGR.png" height="150" align="center"></a>
+<a href="https://medialab.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-MedialabUGR.png" width="250" align="center"></a>
 </td>
 <td>
-<a href="https://iemath.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-IEMathGR.png" height="150" align="center"></a>
-t</td></tr>
+<a href="https://iemath.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-IEMathGR.png" width="250" align="center"></a>
+</td></tr>
 <tr><td>
 <b>Medialab UGR</b>
 </td>
