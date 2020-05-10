@@ -8,9 +8,9 @@ feature-img: "assets/img/view/network.gif"
 ---
 <style>
 #avatar {border-radius: 50%;}
-table {width: 100%; margin: 0 auto; border-collapse: collapse; border: none;}
-tr {border-collapse: collapse;}
-td {text-align: center; vertical-align: middle; border-collapse: collapse;}
+table {width: 100%; margin: 0 auto; border-collapse: collapse; border: none; border-color: white}
+tr {border-collapse: collapse; border: none; border-color: white}
+td {text-align: center; vertical-align: middle; border-collapse: collapse; border: none; border-color: white}
 td.center {text-align: center; vertical-align: middle;}
 </style>
 
