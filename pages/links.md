@@ -7,13 +7,13 @@ feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
 ---
 <style>
-table {width: 100%; margin: 0 auto; border-color: white; align: center}
+table {width: 100%; margin: 0 auto; border-color: white;}
 tr {border-color: white}
 td {text-align: center; vertical-align: middle; border-color: white}
 td.center {text-align: center; vertical-align: middle;}
 </style>
 
-<table>
+<table align="center">
 <tr><td>
 <a href="https://medialab.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-MedialabUGR.png" width="250" align="center"></a>
 </td>
@@ -32,5 +32,4 @@ Laboratorio de Investigación en Cultura y Sociedad<br>Digital de la Universidad
 <td>
 Instituto de Matemáticas de<br>la Universidad de Granada
 </td></tr>
-
 </table>
