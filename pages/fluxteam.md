@@ -40,7 +40,7 @@ Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Gra
 <b>Jesús Bueno Urbano</b>
 </td></tr>
 <tr><td>
-Realizó el Grado en Matemáticas y el Máster Matemáticas por la Universidad de Granada. Actualmente se encuentra trabajando para la empresa privada en Madrid.
+Con el Grado y Máster en Matemáticas por la Universidad de Granada me encuentro trabajando para la empresa privada en Madrid desde 2019. Tengo predilección por la Geometría Computacional y la Topología Algebraica e intento que mis investigaciones y conocimientos me lleven por ese camino. Llevo años colaborando con asociaciones granadinas y proyectos para la divulgación científica y por eso me embarqué en este proyecto junto con mis compañeros. Pásate por mi cuenta en Twitter (<a href="https://twitter.com/buenourbano" target="_blank">@buenourbano</a>).
 </td></tr>
 <tr><td>
 <a href="" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
