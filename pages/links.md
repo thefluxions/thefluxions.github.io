@@ -13,23 +13,20 @@ td {text-align: center; vertical-align: middle; border-color: white}
 td.center {text-align: center; vertical-align: middle;}
 </style>
 
-<table align="center">
+<table>
 <tr><td>
 <a href="https://medialab.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-MedialabUGR.png" width="250" align="center"></a>
-</td>
-<td>
+</td><td>
 <a href="https://iemath.ugr.es" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/logo-IEMathGR.png" width="250" align="center"></a>
 </td></tr>
 <tr><td>
 <b>Medialab UGR</b>
-</td>
-<td>
+</td><td>
 <b>IEMath-GR</b>
 </td></tr>
 <tr><td>
-Laboratorio de Investigación en Cultura y Sociedad<br>Digital de la Universidad de Granada
-</td>
-<td>
-Instituto de Matemáticas de<br>la Universidad de Granada
+Laboratorio de Investigación en Cultura y Sociedad Digital de la Universidad de Granada
+</td><td>
+Instituto de Matemáticas de la Universidad de Granada
 </td></tr>
 </table>
