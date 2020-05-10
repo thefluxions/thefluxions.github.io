@@ -7,7 +7,6 @@ feature-img: "assets/img/view/network.gif"
 #tags: [About, Archive]
 ---
 <style>
-html, body {width: 80%;}
 #avatar {border-radius: 50%;}
 table {width: 500px; margin: 0 auto; border-collapse: collapse;}
 td {text-align: center; vertical-align: middle;}
