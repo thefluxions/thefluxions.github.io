@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S02E05 - Love is in the math"
+title: "S02E06 - Cristóbal Rodero: de las matemáticas al corazón"
 #color: black
 author: thefluxions
 feature-img: "assets/img/view/S02E06.jpg"
@@ -31,4 +31,4 @@ Las Matemáticas están en todas partes, incluso en tu corazón. Pero desentrañ
 
 ## Galería
 
-{% include aligner.html images="view/S02E06_1.jpg,view/S02E06_2.jpg,view/S02E06_3.jpg" column=1 %}
+{% include aligner.html images="view/S02E06_1.gif,view/S02E06_2.jpg,view/S02E06_3.png" column=1 %}
