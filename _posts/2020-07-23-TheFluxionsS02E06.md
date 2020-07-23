@@ -3,9 +3,9 @@ layout: post
 title: "S02E06 - Cristóbal Rodero: de las matemáticas al corazón"
 #color: black
 author: thefluxions
-feature-img: "assets/img/view/S02E06.jpg"
-thumbnail: "assets/img/view/S02E06.jpg"
-image: "assets/img/view/S02E06.jpg"
+feature-img: "assets/img/view/S05E06.jpg"
+thumbnail: "assets/img/view/S05E06.jpg"
+image: "assets/img/view/S05E06.jpg"
 #excerpt_separator: <!--more-->
 #tags: 
 ---
