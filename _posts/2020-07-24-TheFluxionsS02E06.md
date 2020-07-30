@@ -15,17 +15,15 @@ Las Matemáticas están en todas partes, incluso en tu corazón. Pero desentrañ
 
 <br>
 <p align="center">
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
+<a href="https://www.spreaker.com/user/radiolabugr/podcast-cristobal" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
+<a href="https://open.spotify.com/episode/1IvlXDiBmpTWTi0nZ4UhDw?si=3o-ZYAWrTDqZzxY5qZsk0Q" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/gb/podcast/2x06-matem%C3%A1ticas-en-el-coraz%C3%B3n/id1492409246?i=1000486022939" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+<a href="https://www.ivoox.com/2x06-matematicas-corazon-audios-mp3_rf_54326537_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/youtube-logo.png" height="100" align="center"></a>
-
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/medialab-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
 
