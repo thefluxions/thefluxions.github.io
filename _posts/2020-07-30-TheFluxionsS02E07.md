@@ -3,9 +3,9 @@ layout: post
 title: "S02E07 - Homenaje a John Conway: juegos, azulejos y cuaterniones"
 #color: black
 author: thefluxions
-feature-img: "assets/img/view/S05E07.jpg"
-thumbnail: "assets/img/view/S05E07.jpg"
-image: "assets/img/view/S05E07.jpg"
+feature-img: "assets/img/view/S02E07.jpg"
+thumbnail: "assets/img/view/S02E07.jpg"
+image: "assets/img/view/S02E07.jpg"
 #excerpt_separator: <!--more-->
 #tags: 
 ---
