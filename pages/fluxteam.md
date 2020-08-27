@@ -22,7 +22,7 @@ td.center {text-align: center; vertical-align: middle;}
 <b>Bartolomé Ortiz Viso</b>
 </td></tr>
 <tr><td>
-Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Física y Matemáticas por la Universidad de Granada.
+Me gusta aplicar las matemáticas a las cosas (si es biología, mejor). Estudié el Grado en Matemáticas y el Máster en Física y Matemáticas en la Universidad de Granada. Actualmente trabajo en el Departamento de Ciencias de la Computación e Inteligencia Artifical en la misma universidad, donde estoy realizando un doctorado sobre sistemas de recomendación de estructuras complejas.Me apasiona hablar de ciencia (radio) y la ciencia libre, echando una mano en iniciativas con esta filosofía siempre que puedo. Cuando me sobra tiempo de todo lo anterior, lo divido en hacer senderismo, fotos y artes marciales. 
 </td></tr>
 <tr><td>
 <a href="https://twitter.com/wizmik12" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_mike.jpg" height="150" align="center"></a>
