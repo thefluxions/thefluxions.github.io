@@ -22,7 +22,7 @@ td.center {text-align: center; vertical-align: middle;}
 <b>Bartolomé Ortiz Viso</b>
 </td></tr>
 <tr><td>
-Me gusta aplicar las matemáticas a las cosas (si es biología, mejor). Estudié el Grado en Matemáticas y el Máster en Física y Matemáticas en la Universidad de Granada. Actualmente trabajo en el Departamento de Ciencias de la Computación e Inteligencia Artifical en la misma universidad, donde estoy realizando un doctorado sobre sistemas de recomendación de estructuras complejas.Me apasiona hablar de ciencia (radio) y la ciencia libre, echando una mano en iniciativas con esta filosofía siempre que puedo. Cuando me sobra tiempo de todo lo anterior, lo divido en hacer senderismo, fotos y artes marciales. 
+Me gusta aplicar las matemáticas a las cosas (si es biología, mejor). Estudié el Grado en Matemáticas y el Máster en Física y Matemáticas en la Universidad de Granada. Actualmente trabajo en el Departamento de Ciencias de la Computación e Inteligencia Artifical en la misma universidad, donde estoy realizando un Doctorado sobre Sistemas de recomendación de Estructuras Complejas. Me apasiona hablar de ciencia (radio) y la ciencia libre, echando una mano en iniciativas con esta filosofía siempre que puedo. Cuando me sobra tiempo de todo lo anterior, lo divido en hacer senderismo, fotos y artes marciales. 
 </td></tr>
 <tr><td>
 <a href="https://twitter.com/wizmik12" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_mike.jpg" height="150" align="center"></a>
@@ -34,13 +34,15 @@ Me gusta aplicar las matemáticas a las cosas (si es biología, mejor). Estudié
 Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas y el Máster en Ciencia de Datos e Ingeniería de Computadores por la Universidad de Granada.
 </td></tr>
 <tr><td>
-<a href="" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
+<a href="https://instagram.com/alexsrndpty" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
 </td></tr>
 <tr><td>
 <b>Almudena Campos Jiménez</b>
 </td></tr>
 <tr><td>
-Estudiante del Máster en Matemáticas por la Universidad de Granada. Previamente ha realizado el Grado en Matemáticas por las Universidades de Granada y Málaga.
+Profesora en mis ratos libres, adicta al café y matemática por vocación. Cursé el Grado y el Máster en Matemáticas a medio camino entre las universidades de Granada y Málaga, tras el resurgimiento de la asociación de matemáticas AMAT, la divulgación científica pasó a formar parte de mi día a día, ¿a quién no le gusta hablar de mates en una cafetería o con una cerveza fría?
+<br>Apasionada de la Teoría de Números, me flipan la pintura, los animales y Star Wars. También me confunden con Sarah Connor.
+<br>Si mi vida tuviera banda sonora, le pondría esta canción: <a href="https://youtu.be/c1XCjp5Q_Bw">https://youtu.be/c1XCjp5Q_Bw</a>
 </td></tr>
 <tr><td>
 <a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
@@ -49,6 +51,7 @@ Estudiante del Máster en Matemáticas por la Universidad de Granada. Previament
 <b>Jesús Bueno Urbano</b>
 </td></tr>
 <tr><td>
-Con el Grado y Máster en Matemáticas por la Universidad de Granada me encuentro trabajando para la empresa privada en Madrid desde 2019. Tengo predilección por la Geometría Computacional y la Topología Algebraica e intento que mis investigaciones y conocimientos me lleven por ese camino. Llevo años colaborando con asociaciones y proyectos universitarios para la divulgación científica con lo cual embarcarme en este proyecto junto con mis compañeros era un paso casi natural para continuar con la afición tras terminar mi paso por la universidad. Pásate por mi cuenta en Twitter (<a href="https://twitter.com/buenourbano" target="_blank">@buenourbano</a>).
+Con el Grado y Máster en Matemáticas por la Universidad de Granada me encuentro trabajando para la empresa privada en Madrid desde 2019. Tengo predilección por la Geometría Computacional y la Topología Algebraica e intento que mis investigaciones y conocimientos me lleven por ese camino. Llevo años colaborando con asociaciones y proyectos universitarios para la divulgación científica con lo cual embarcarme en este proyecto junto con mis compañeros era un paso casi natural para continuar con la afición tras terminar mi paso por la universidad.
+<br>Cuando todo esto me deja tiempo suelo entretenerme con libros y podcast sobre Historia, Arte o Filosofía, mis otras grandes pasiones.
 </td></tr>
 </table>
