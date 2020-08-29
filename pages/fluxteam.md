@@ -41,8 +41,7 @@ Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Gra
 </td></tr>
 <tr><td>
 Profesora en mis ratos libres, adicta al café y matemática por vocación. Cursé el Grado y el Máster en Matemáticas a medio camino entre las universidades de Granada y Málaga, tras el resurgimiento de la asociación de matemáticas AMAT, la divulgación científica pasó a formar parte de mi día a día, ¿a quién no le gusta hablar de mates en una cafetería o con una cerveza fría?
-<br>Apasionada de la Teoría de Números, me flipan la pintura, los animales y Star Wars. También me confunden con Sarah Connor.
-<br>Si mi vida tuviera banda sonora, le pondría esta canción: <a href="https://youtu.be/c1XCjp5Q_Bw">https://youtu.be/c1XCjp5Q_Bw</a>
+<br>Apasionada de la Teoría de Números, me flipan la pintura, los animales y Star Wars. También me confunden con Sarah Connor. Si mi vida tuviera banda sonora, le pondría esta canción: <a href="https://youtu.be/c1XCjp5Q_Bw">https://youtu.be/c1XCjp5Q_Bw</a>
 </td></tr>
 <tr><td>
 <a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
@@ -51,7 +50,6 @@ Profesora en mis ratos libres, adicta al café y matemática por vocación. Curs
 <b>Jesús Bueno Urbano</b>
 </td></tr>
 <tr><td>
-Con el Grado y Máster en Matemáticas por la Universidad de Granada me encuentro trabajando para la empresa privada en Madrid desde 2019. Tengo predilección por la Geometría Computacional y la Topología Algebraica e intento que mis investigaciones y conocimientos me lleven por ese camino. Llevo años colaborando con asociaciones y proyectos universitarios para la divulgación científica con lo cual embarcarme en este proyecto junto con mis compañeros era un paso casi natural para continuar con la afición tras terminar mi paso por la universidad.
-<br>Cuando todo esto me deja tiempo suelo entretenerme con libros y podcast sobre Historia, Arte o Filosofía, mis otras grandes pasiones.
+Con el Grado y Máster en Matemáticas por la Universidad de Granada me encuentro trabajando para la empresa privada en Madrid desde 2019. Tengo predilección por la Geometría Computacional y la Topología Algebraica e intento que mis investigaciones y conocimientos me lleven por ese camino. Llevo años colaborando con asociaciones y proyectos universitarios para la divulgación científica con lo cual embarcarme en este proyecto junto con mis compañeros era un paso casi natural para continuar con la afición tras terminar mi paso por la universidad. Cuando todo esto me deja tiempo suelo entretenerme con libros y podcast sobre Historia, Arte o Filosofía, mis otras grandes pasiones.
 </td></tr>
 </table>
