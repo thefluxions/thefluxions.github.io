@@ -40,7 +40,7 @@ Doctorando en XXX por la Universidad de Granada. Previamente ha realizado el Gra
 <b>Almudena Campos Jiménez</b>
 </td></tr>
 <tr><td>
-Profesora en mis ratos libres, adicta al café y matemática por vocación. Cursé el Grado y el Máster en Matemáticas a medio camino entre las universidades de Granada y Málaga, tras el resurgimiento de la asociación de matemáticas AMAT, la divulgación científica pasó a formar parte de mi día a día, ¿a quién no le gusta hablar de mates en una cafetería o con una cerveza fría? Apasionada de la Teoría de Números, me flipan la pintura, los animales y Star Wars. También me confunden con Sarah Connor. Si mi vida tuviera banda sonora, le pondría esta canción: <a href="https://youtu.be/c1XCjp5Q_Bw">https://youtu.be/c1XCjp5Q_Bw</a>
+Profesora en mis ratos libres, adicta al café y matemática por vocación. Cursé el Grado y el Máster en Matemáticas a medio camino entre las universidades de Granada y Málaga, tras el resurgimiento de la asociación de matemáticas AMAT, la divulgación científica pasó a formar parte de mi día a día, ¿a quién no le gusta hablar de mates en una cafetería o con una cerveza fría? Apasionada de la Teoría de Números, me flipan la pintura, los animales y Star Wars. También me confunden con Sarah Connor. Si mi vida tuviera banda sonora, le pondría esta canción: <a href="https://youtu.be/c1XCjp5Q_Bw" target="_blank">https://youtu.be/c1XCjp5Q_Bw</a>
 </td></tr>
 <tr><td>
 <a href="https://twitter.com/buenourbano" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_yis.jpg" height="150" align="center"></a>
