@@ -24,3 +24,8 @@ El 11 de abril de 2020 nos dejaba John Conway. Un prolífico matemático que dej
 <a href="https://www.ivoox.com/2x07-homenaje-a-john-conway-juegos-azulejos-audios-mp3_rf_54624058_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
+
+## Referencias
+
+* Hosch, W. L., & Chauchan, Y. (2009, 8 abril). Waring’s problem | mathematics. Encyclopedia Britannica. https://www.britannica.com/science/Warings-problem
+* Ruen, T. (2011, 19 octubre). Conway relational chart [Gráfico]. Wikipedia. https://en.wikipedia.org/wiki/File:Conway_relational_chart.png
