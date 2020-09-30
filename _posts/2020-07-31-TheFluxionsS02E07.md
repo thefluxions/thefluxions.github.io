@@ -27,5 +27,5 @@ El 11 de abril de 2020 nos dejaba John Conway. Un prolífico matemático que dej
 
 ## Referencias
 
-* Hosch, W. L., & Chauchan, Y. (2009, 8 abril). Waring’s problem. Encyclopedia Britannica. https://www.britannica.com/science/Warings-problem
-* Ruen, T. (2011, 19 octubre). Conway relational chart [Gráfico]. Wikipedia. https://en.wikipedia.org/wiki/File:Conway_relational_chart.png
+* Hosch, W. L., & Chauchan, Y. (2009, 8 abril). Waring’s problem. Encyclopedia Britannica. [](https://www.britannica.com/science/Warings-problem)
+* Ruen, T. (2011, 19 octubre). Conway relational chart [Gráfico]. Wikipedia. [](https://en.wikipedia.org/wiki/File:Conway_relational_chart.png)
