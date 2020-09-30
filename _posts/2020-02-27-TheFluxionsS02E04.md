@@ -28,6 +28,12 @@ Hoy Newton escucharía debajo del árbol hablar sobre la conjetura de Collatz, u
 </p>
 <br><br>
 
+## Referencias
+
+* [Harnet, K. (2019, 19 diciembre). Mathematician Proves Huge Result on ‘Dangerous’ Problem. Quanta Magazine.](https://www.quantamagazine.org/mathematician-terence-tao-and-the-collatz-conjecture-20191211/)
+* [Collatz Conjecture tool](https://www.dcode.fr/collatz-conjecture)
+* [Numberphile. (2017, 28 marzo). Collatz Conjecture in Color - Numberphile. YouTube.](https://www.youtube.com/watch?v=LqKpkdRRLZw)
+
 ## Galería
 
 {% include aligner.html images="view/S02E04_1.jpg" column=1 %}
