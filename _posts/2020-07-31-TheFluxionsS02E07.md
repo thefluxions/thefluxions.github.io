@@ -19,7 +19,7 @@ El 11 de abril de 2020 nos dejaba John Conway. Un prolífico matemático que dej
 
 <a href="https://open.spotify.com/episode/5HH42HCuvkrBlcus9LHHKo" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/es/podcast/2x07-homenaje-a-john-conway-juegos-azulejos-y-cuaterniones/id1492409246?i=1000486698403" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 
 <a href="https://www.ivoox.com/2x07-homenaje-a-john-conway-juegos-azulejos-audios-mp3_rf_54624058_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>

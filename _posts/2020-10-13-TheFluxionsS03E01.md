@@ -20,6 +20,10 @@ image: "assets/img/view/S03E01.png"
 <a href="https://www.spreaker.com/user/radiolabugr/the-fluxions-3x01-algoritmos-de-tiktok-y" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
 
 <a href="https://open.spotify.com/episode/0C3NusJnhnp1AlY2Sn9G9l" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
+<br><br>
+<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+
+<a href="https://www.ivoox.com/3x01-algoritmos-tiktok-fiestas-universitarias-audios-mp3_rf_57822985_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
 
