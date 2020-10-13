@@ -26,7 +26,7 @@ image: "assets/img/view/S03E01.png"
 ## Referencias
 
 * [Ricci, F., Rokach, L., Shapira, B., & Kantor, P. B. (2010). Recommender Systems Handbook. Springer Publishing.](https://www.springer.com/gp/book/9780387858203)
-*  [T. (2020, 30 julio). How TikTok recommends videos #ForYou. Newsroom | TikTok.](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you)
+*  [T. (2020, 30 julio). How TikTok recommends videos #ForYou. Newsroom.](https://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you)
 * [Hybrid reccomendation approaches](https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2005%20-%20Hybrid%20recommendation%20approaches.pdf)
 
 ## Música
