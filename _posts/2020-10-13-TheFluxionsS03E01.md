@@ -12,7 +12,7 @@ image: "assets/img/view/S03E01.png"
 
 ¡Estamos de vuelta! Volvemos cargados de ganas de hablar de ciencia. Inaugurando la 3ª temporada os traemos el tema del momento: ¡Hablamos de TikTok!
 <br>Acompaña a Almu y Bart mientras repasan aquello que sabemos acerca del algoritmo de la aplicación que está en boca de todos. Nuestros queridos podcasters nos cuentan a través de fiestas universitarias y canapés cómo se genera el contenido recomendado en este tipo de aplicaciones que hace que te pases horas y horas viendo vídeos.
-<br>¿Qué haces que no estas fluxeando? ¡Dale al play! 
+<br>¿Qué haces que no estás fluxeando? ¡Dale al play! 
 
 
 <br>
