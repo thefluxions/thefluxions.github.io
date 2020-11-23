@@ -34,4 +34,8 @@ image: "assets/img/view/S03E02.png"
 
 ## Música
 
-* Texto
+* Red, White, Black & Blue by PEG & The Rejected is licensed under a Attribution-NonCommercial-ShareAlike License.
+* Shipping Lanes by Chad Crouch is licensed under a Attribution-NonCommercial 3.0 International License.
+* Organisms by Chad Crouch is licensed under a Attribution-NonCommercial 3.0 International License.
+* Moonrise by Chad Crouch is licensed under a Attribution-NonCommercial 3.0 International License.
+* Algorithms by Chad Crouch is licensed under a Attribution-NonCommercial 3.0 International License.
