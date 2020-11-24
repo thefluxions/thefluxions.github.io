@@ -16,13 +16,13 @@ image: "assets/img/view/S03E02.png"
 
 <br>
 <p align="center">
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
+<a href="https://www.spreaker.com/user/radiolabugr/mersenne?autoplay=1" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spreaker-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
+<a href="https://open.spotify.com/episode/3WpT2WEcbSgPpzyDviCKAo?si=o26oemVYT9CAmdjn_mdAqw" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 <br><br>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+<a href="https://www.ivoox.com/3x02-conexion-mersenne-hanoi-audios-mp3_rf_60835672_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
 
