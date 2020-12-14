@@ -20,7 +20,7 @@ image: "assets/img/view/S03E02.png"
 
 <a href="https://open.spotify.com/episode/3WpT2WEcbSgPpzyDviCKAo?si=o26oemVYT9CAmdjn_mdAqw" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/es/podcast/3x02-conexi%C3%B3n-mersenne-han%C3%B3i/id1492409246" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 
 <a href="https://www.ivoox.com/3x02-conexion-mersenne-hanoi-audios-mp3_rf_60835672_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>
