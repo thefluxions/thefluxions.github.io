@@ -20,9 +20,9 @@ La tercera temporada continúa su curso. En esta ocasión acompaña a Bart y Yis
 
 <a href="https://open.spotify.com/episode/4zvsdmOLVQuQuEwnTxp14O?si=_xbcecj2QYWGgsdX-muSMQ" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/spotify-logo.png" height="100" align="center"></a>
 <br><br>
-<a href="https://www.ivoox.com/3x03-matematicas-vs-politica-gerrymandering-audios-mp3_rf_62380644_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
+<a href="https://podcasts.apple.com/gb/podcast/3x03-matem%C3%A1ticas-vs-pol%C3%ADtica-gerrymandering/id1492409246?i=1000502489503" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/apple-logo.png" height="100" align="center"></a>
 
-<a href="https://podcasts.apple.com/gb/podcast/3x03-matem%C3%A1ticas-vs-pol%C3%ADtica-gerrymandering/id1492409246?i=1000502489503" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
+<a href="https://www.ivoox.com/3x03-matematicas-vs-politica-gerrymandering-audios-mp3_rf_62380644_1.html" target="_blank"><img src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/archive/ivoox-logo.png" height="100" align="center"></a>
 </p>
 <br><br>
 
