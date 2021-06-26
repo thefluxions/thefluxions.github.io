@@ -47,7 +47,7 @@ Hoy Newton escucharía debajo del árbol el programa especial que The Fluxions g
 
 ### Actualización 2020
 
-*[Wright, A. (2020). A tour through Mirzakhani’s work on moduli spaces of Riemann surfaces. arXiv.](https://arxiv.org/abs/1905.01753)
+* [Wright, A. (2020). A tour through Mirzakhani’s work on moduli spaces of Riemann surfaces. arXiv.](https://arxiv.org/abs/1905.01753)
 
 ## Galería
 
