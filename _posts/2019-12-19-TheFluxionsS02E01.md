@@ -29,6 +29,17 @@ Entonces acompañanos en este podcast donde hablaremos de este y otros números,
 </p>
 <br><br>
 
+## Referencias
+
+* [Paul Erdős. (2000, enero). Maths History.](https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/)
+* [Hoffman, P. (1999). The Man Who Loved Only Numbers. Adfo Books.](https://www.hachettebooks.com/titles/paul-hoffman/the-man-who-loved-only-numbers/9780786884063/)
+* [Erdös Number Project - The Erdös Number Project - Oakland University. (1996, 3 julio). Copyright 2014 Oakland University.](https://oakland.edu/enp/)
+* [Wikipedia contributors. (2021, 25 junio). Six Degrees of Kevin Bacon. Wikipedia.](/https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
+* [Miller, B. (2021, 2 marzo). Three and a half degrees of separation. Facebook Research.](https://research.fb.com/blog/2016/02/three-and-a-half-degrees-of-separation)
+* [MacDonald, F. (2015, 27 agosto). Are We Really All Connected by Just Six Degrees of Separation? ScienceAlert.](https://www.sciencealert.com/are-we-all-really-connected-by-just-six-degrees-of-separatio)
+* [Bryner, J. (2012, 12 diciembre). Six Degrees of Separation: Fact or Fiction? Livescience.Com.](https://www.livescience.com/32340-six-degrees-of-separation-fact-or-fiction.html)
+* [Watts, D. J. (1998, 4 junio). It’s a small world. Nature.](https://www.nature.com/articles/30918?error=cookies_not_supported&code=62303ce1-0dd0-4452-8b6b-88955ba3d99c)
+
 ## Galería
 
 {% include aligner.html images="view/S02E01_1.jpg" column=1 %}
