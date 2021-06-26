@@ -34,7 +34,7 @@ Hoy Newton escucharía debajo del árbol que la vida parece un buen laberinto. Y
 * [Rey, Á. M. (2018, 3 diciembre). El algoritmo de Tarry o cómo salir de un laberinto a la primera. ABC.](https://www.abc.es/ciencia/abci-algoritmo-tarry-o-como-salir-laberinto-primera-201812030300_noticia.html)
 * [Mizuno, M. (2006, 2 noviembre). Mathematics and Labyrinths. Centre national de la recherche scientifique.](http://www.rehseis.cnrs.fr/IMG/pdf/Mitsuko_1122.pdf)
 *[Leonard Euler’s Solution to the Konigsberg Bridge Problem | Mathematical Association of America. (2011, mayo). Mathematical Association of America.](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
-* [Alzheimer’s Research UK. (2020, 13 marzo). Sea Hero Quest | Alzheimer's Research UK.](https://www.alzheimersresearchuk.org/research/for-researchers/resources-and-information/sea-hero-quest/)
+* [Alzheimer’s Research UK. (2020, 13 marzo). Sea Hero Quest. Alzheimer's Research UK.](https://www.alzheimersresearchuk.org/research/for-researchers/resources-and-information/sea-hero-quest/)
 
 ### Actualización 2020
 
