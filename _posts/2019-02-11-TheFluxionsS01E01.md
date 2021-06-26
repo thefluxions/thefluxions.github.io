@@ -36,7 +36,7 @@ Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas
 * [Villatoro, F. R. (2018, 11 diciembre). AlphaZero domina el ajedrez tras cuatro horas de autoaprendizaje. La Ciencia de la Mula Francis.](ttps://francis.naukas.com/2017/12/09/alpha-go-zero-domina-el-ajedrez/)
 * [Silver, D. (2018, 7 diciembre). A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play. Science.](https://science.sciencemag.org/content/362/6419/114)
 * [Ouellette, J. (2018, 6 diciembre). Move over AlphaGo: AlphaZero taught itself to play three different games. Ars Technica.](https://arstechnica.com/science/2018/12/move-over-alphago-alphazero-taught-itself-to-play-three-different-games)
-* [Senior, A., Hubert, T., Schrittwieser, J., & Hassabis, D. (2018, 06 diciembre). AlphaZero: Shedding new light on chess, shogi, and Go. DeepMind.](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go)
+* [Senior, A., Hubert, T., Schrittwieser, J., & Hassabis, D. (2018, 6 diciembre). AlphaZero: Shedding new light on chess, shogi, and Go. DeepMind.](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go)
 * [Rus, C. (2018, 5 febrero). 'AlphaGo' es el documental de Netflix que mejor explica lo que supuso la victoria de la IA de Google al campeón de Go. Xataka.](https://www.xataka.com/cine-y-tv/alphago-es-el-documental-de-netflix-que-mejor-explica-lo-que-supuso-la-victoria-de-la-ia-de-google-al-campeon-de-go)
 
 
