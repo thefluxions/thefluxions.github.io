@@ -40,6 +40,10 @@ Entonces acompañanos en este podcast donde hablaremos de este y otros números,
 * [Bryner, J. (2012, 12 diciembre). Six Degrees of Separation: Fact or Fiction? Livescience.Com.](https://www.livescience.com/32340-six-degrees-of-separation-fact-or-fiction.html)
 * [Watts, D. J. (1998, 4 junio). It’s a small world. Nature.](https://www.nature.com/articles/30918?error=cookies_not_supported&code=62303ce1-0dd0-4452-8b6b-88955ba3d99c)
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ## Galería
 
 {% include aligner.html images="view/S02E01_1.jpg" column=1 %}

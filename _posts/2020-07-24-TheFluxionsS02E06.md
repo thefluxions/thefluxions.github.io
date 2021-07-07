@@ -31,6 +31,12 @@ Las Matemáticas están en todas partes, incluso en tu corazón. Pero desentrañ
 
 * [Corral-Acero, J., Margara, F., Marciniak, M., Rodero, C., Loncaric, F., Feng, Y., Gilbert, A., Fernandes, J. F., Bukhari, H. A., Wajdan, A., Martinez, M. V., Santos, M. S., Shamohammdi, M., Luo, H., Westphal, P., Leeson, P., DiAchille, P., Gurev, V., Mayr, M., … Lamata, P. (2020). The ‘Digital Twin’ to enable the vision of precision cardiology. European Heart Journal, 1-11.](https://doi.org/10.1093/eurheartj/ehaa159)
 
+## Música
+
+* Welcome to the Show by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+* Cold Funk by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+* Funkorama by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+
 ## Galería
 
 {% include aligner.html images="view/S02E06_1.gif,view/S02E06_2.jpg,view/S02E06_3.png" column=1 %}

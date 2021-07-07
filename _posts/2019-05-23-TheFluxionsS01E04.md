@@ -38,6 +38,10 @@ Hoy Newton escucharía debajo del árbol a Bart y Mike preguntándose si tenemos
 * [BBC News Mundo. (2015, 2 julio). Google pide perdón por confundir a una pareja negra con gorilas.](https://www.bbc.com/mundo/noticias/2015/07/150702_tecnologia_google_perdon_confundir_afroamericanos_gorilas_lv)
 * [Dastin, J. (2018, 14 octubre). Amazon abandona un proyecto de IA para la contratación por su sesgo sexista. U.S.](https://www.reuters.com/article/amazon-com-contratacion-ia-idESKCN1MO0M4)
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ## Galería
 
 {% include aligner.html images="view/S01E04_1.jpg,view/S01E04_2.jpg,view/S01E04_3.jpg,view/S01E04_4.jpg" column=1 %}

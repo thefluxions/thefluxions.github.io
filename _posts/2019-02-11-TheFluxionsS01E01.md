@@ -39,6 +39,10 @@ Hoy Newton escucharía debajo del árbol cómo Kasparov soñaba con ajedrecistas
 * [Senior, A., Hubert, T., Schrittwieser, J., & Hassabis, D. (2018, 6 diciembre). AlphaZero: Shedding new light on chess, shogi, and Go. DeepMind.](https://deepmind.com/blog/article/alphazero-shedding-new-light-grand-games-chess-shogi-and-go)
 * [Rus, C. (2018, 5 febrero). 'AlphaGo' es el documental de Netflix que mejor explica lo que supuso la victoria de la IA de Google al campeón de Go. Xataka.](https://www.xataka.com/cine-y-tv/alphago-es-el-documental-de-netflix-que-mejor-explica-lo-que-supuso-la-victoria-de-la-ia-de-google-al-campeon-de-go)
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 
 ## Galería
 

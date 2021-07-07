@@ -29,3 +29,12 @@ El 11 de abril de 2020 nos dejaba John Conway. Un prolífico matemático que dej
 
 * [Hosch, W. L., & Chauchan, Y. (2009, 8 abril). Waring’s problem. Encyclopedia Britannica.](https://www.britannica.com/science/Warings-problem)
 * [Ruen, T. (2011, 19 octubre). Conway relational chart [Gráfico]. Wikipedia.](https://en.wikipedia.org/wiki/File:Conway_relational_chart.png)
+
+## Música
+
+* Welcome to the Show by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+* Cold Funk by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+* Funkorama by Kevin MacLeod is licensed under a Attribution-NonCommercial 3.0 International License.
+* By the Wings by Sergey Cheremisinov is licensed under a Creative Commons License.
+* Hotshot by Scott Holmes is licensed under a CC BY-NC or CC BY-A License License.
+* Up Folk by Ketsa is licensed under a Creative Commons License.

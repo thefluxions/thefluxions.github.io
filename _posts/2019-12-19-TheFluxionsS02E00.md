@@ -28,6 +28,10 @@ image: "assets/img/view/S02E00.jpg"
 </p>
 <br><br>
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ## Galería
 
 {% include aligner.html images="view/S02E00_1.jpg" column=1 %}

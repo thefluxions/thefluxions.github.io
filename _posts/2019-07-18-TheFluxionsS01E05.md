@@ -28,6 +28,12 @@ Hoy Newton escucharía debajo del árbol a nuestra querida invitada Ana Valdivia
 </p>
 <br><br>
 
+## Música
+
+* Tanzen (K ID 22) - KieLoBot - Hounds of Darkmoor is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives License.
+
+* Improvisations 03_25_12 Part 2 - Split Phase - Compendium  is licensed under a Attribution-Noncommercial-Share Alike 3.0 License.
+
 ## Galería
 
 {% include aligner.html images="view/S01E05_1.jpg" column=1 %}

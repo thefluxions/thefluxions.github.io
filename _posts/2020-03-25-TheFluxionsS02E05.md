@@ -34,3 +34,7 @@ Hoy Newton escucharía debajo del árbol que encontrar a la pareja ideal es una 
 * [Team, T. (2020, 17 septiembre). Powering Tinder® — The Method Behind Our Matching. Tinder.](https://blog.gotinder.com/powering-tinder-r-the-method-behind-our-matching/)
 * [Winterhalter, B. (2018, 13 junio). Don’t Fall in Love on OkCupid. JSTOR Daily.](https://daily.jstor.org/dont-fall-in-love-okcupid/)
 * [Tiffany, K. (2019a, febrero 11). Tinder parent company Match Group acquires Hinge. Vox.](https://www.vox.com/the-goods/2019/2/11/18220425/hinge-explained-match-group-tinder-dating-apps)
+
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.

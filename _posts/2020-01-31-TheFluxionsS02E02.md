@@ -26,6 +26,10 @@ Hoy Newton escucharía debajo del árbol que todo es mejor con Bayes. Aunque pue
 </p>
 <br><br>
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ## Galería
 
 {% include aligner.html images="view/S02E02_1.jpg" column=1 %}

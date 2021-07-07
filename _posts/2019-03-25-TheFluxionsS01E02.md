@@ -34,10 +34,8 @@ Hoy Newton escucharía debajo del árbol a nuestro querido invitado Pablo Garcí
 
 <br><br>
 
-## Datos técnicos
+## Música
 
-Audio utilizado
+* Tanzen (K ID 22) - KieLoBot - Hounds of Darkmoor is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives License.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tanzen (K ID 22) - KieLoBot - Hounds of Darkmoor (Copyright: Creative Commons Attribution-NonCommercial-NoDerivatives)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improvisations 03_25_12 Part 2 - Split Phase - Compendium (Copyright: Attribution-Noncommercial-Share Alike 3.0)
+* Improvisations 03_25_12 Part 2 - Split Phase - Compendium  is licensed under a Attribution-Noncommercial-Share Alike 3.0 License.

@@ -34,6 +34,10 @@ Hoy Newton escucharía debajo del árbol hablar sobre la conjetura de Collatz, u
 * [Collatz Conjecture tool](https://www.dcode.fr/collatz-conjecture)
 * [Numberphile. (2017, 28 marzo). Collatz Conjecture in Color - Numberphile. YouTube.](https://www.youtube.com/watch?v=LqKpkdRRLZw)
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ## Galería
 
 {% include aligner.html images="view/S02E04_1.jpg" column=1 %}

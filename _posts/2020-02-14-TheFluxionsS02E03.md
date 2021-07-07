@@ -36,6 +36,10 @@ Hoy Newton escucharía debajo del árbol que la vida parece un buen laberinto. Y
 * [Leonard Euler’s Solution to the Konigsberg Bridge Problem. Mathematical Association of America. (2011, mayo). Mathematical Association of America.](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
 * [Alzheimer’s Research UK. (2020, 13 marzo). Sea Hero Quest. Alzheimer's Research UK.](https://www.alzheimersresearchuk.org/research/for-researchers/resources-and-information/sea-hero-quest/)
 
+## Música
+
+* Edición de audio y música montada y editada por RadioLab UGR.
+
 ### Actualización 2020
 
 * [Williams, H. (2020, agosto). The Mathematics of Mazes. ResearchGate. Preprint](https://www.researchgate.net/publication/343615560_The_Mathematics_of_Mazes)
