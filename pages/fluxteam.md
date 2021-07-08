@@ -31,7 +31,7 @@ Me gusta aplicar las matemáticas a las cosas (si es biología, mejor). Estudié
 <b>Miguel López Pérez</b>
 </td></tr>
 <tr><td>
-Matemático de día, podcaster de noche. Aquí te pillo, aquí te divulgo. Hice el grado en Matemáticas, el Máster en Ciencia de Datos en la Universidad de Granada. Actualmente investigo cosas sobre imágenes médicas mientras hago el Doctorado en la misma universidad. Yo le doy a todo en cuanto al conocimiento se refiere. Los atardeceres están bien al igual que el café y el chocolate por ejemplo. Si pudiera vivir en un video viviría aquí:<a href="https://www.youtube.com/watch?v=exThDVSpGoE" target="_blank">https://www.youtube.com/watch?v=exThDVSpGoE</a>
+Matemático de día, podcaster de noche. Aquí te pillo, aquí te divulgo. Hice el grado en Matemáticas, el Máster en Ciencia de Datos en la Universidad de Granada. Actualmente investigo cosas sobre imágenes médicas mientras hago el Doctorado en la misma universidad. Yo le doy a todo en cuanto al conocimiento se refiere. Los atardeceres están bien al igual que el café y el chocolate por ejemplo. Si pudiera vivir en un video viviría aquí: <a href="https://www.youtube.com/watch?v=exThDVSpGoE" target="_blank">https://www.youtube.com/watch?v=exThDVSpGoE</a>
 </td></tr>
 <tr><td>
 <a href="https://instagram.com/alexsrndpty" target="_blank"><img id="avatar" src="https://raw.githubusercontent.com/thefluxions/thefluxions.github.io/master/assets/img/avatars/profile_almu.jpg" height="150" align="center"></a>
